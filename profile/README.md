@@ -1,5 +1,7 @@
-## Hi there 👋
+## Welcome to the N-Body Shop
 
+Code of Conduct: https://docs.google.com/document/d/1jk09SjSyZCUFomUjjRQDSYMjp481gU9xqrHFkGbcK2Y/edit?usp=sharing
+Resources & Best Practices: https://docs.google.com/document/d/1O6-xjnF8GiV-bX4Qc749cvLK7qZ_rIzz49MpiHdCjQw/edit?usp=sharing
 <!--
 
 **Here are some ideas to get you started:**
