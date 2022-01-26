@@ -1,12 +1,20 @@
-## Hi there 👋
+## Welcome to the [N-Body Shop](https://nbody.shop)
 
-<!--
+Current CoC Committee:
+> Alyson Brooks, Tom Quinn, Tobias Buck, Anna Wright, Vida Saeedzadeh, Ray Sharma
 
-**Here are some ideas to get you started:**
+### Useful Links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Public Code of Conduct: https://nbody.shop/coc.html
+
+Code of Conduct Editing: https://docs.google.com/document/d/1jk09SjSyZCUFomUjjRQDSYMjp481gU9xqrHFkGbcK2Y/edit?usp=sharing
+
+Membership Form: https://forms.gle/pwGedGfvRRSJ4A6X6
+
+Anonymous Feedback & CoC Violations: https://forms.gle/yVec4L8NrQuQDV3C6
+
+Resources & Best Practices: https://docs.google.com/document/d/1O6-xjnF8GiV-bX4Qc749cvLK7qZ_rIzz49MpiHdCjQw/edit?usp=sharing
+
+Rotating Committee Description: https://docs.google.com/document/d/18QU5wNlkPFBtpGRMVIIVHJdZKdbsGMkF1KXT0nlDfXM/edit?usp=sharing
+
+Rotating Committee Volunteer Form: https://forms.gle/znZx4kvtnPBq3Uh57
