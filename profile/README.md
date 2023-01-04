@@ -5,7 +5,7 @@ Current CoC Committee:
 
 ### Useful Links
 
-Public Code of Conduct: https://nbody.shop/coc.html
+Public Code of Conduct: https://nbody.shop/#five
 
 Code of Conduct Editing: https://docs.google.com/document/d/1jk09SjSyZCUFomUjjRQDSYMjp481gU9xqrHFkGbcK2Y/edit?usp=sharing
 
